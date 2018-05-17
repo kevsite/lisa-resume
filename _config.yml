@@ -10,21 +10,23 @@ theme_skin: # blue turquoise green berry orange ceramic
 
 
 # Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Lisa Jiamsirioungkul
+tagline: VR Product Manager
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Energetic software engineer with 10+ years experience managing production for high-volume businesses. 
+Increased code-efficiency of XYZ Corp customer portal by 55%.
+Boosted customer retention by 25%. Spearheaded a team that won the 2016 BOSSIE Award for cloud computing.
+An enthusiastic team player and deep creative thinker.
+You can <a href="https://visalisa.github.io/online-cv/" target="_blank"download>download my resume here</a>'
+  
 
 # Sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: visakhalisajiam@gmail.com
+phone: 562 396 3501
+website: visalisa.com #do not add http://
+linkedin: VisaLisa
+github: visalisa
+twitter: '@visalisago'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
