@@ -1,18 +1,16 @@
 - skill:
-  name: Unity
+  name: Web and Software Development
   level: 95%
+  list: CSS, HTML, JavaScript, C#, JQuery, PHP, Dreamweaver, WordPress, and Unity
 - skill:
-  name: HTML5 & CSS
+  name: Virtual Reality (AR) Development
   level: 95%
+  list: A-Frame, Oculus Rift, Mircosoft Windows Mixed Reality, and HTC Vive
 - skill: 
-  name: Sketch & Photoshop
-  level: 90
-- skill:
-  name: 
+  name: Anatyics
   level: 95%
+  list: Power BI, Tableau, and Oracle SQL
 - skill:
-  name: Python & Django
+  name: Management
   level: 85%
-- skill:
-  name: 
-  level: 60%
+  list: Agile methodology, project management, operational management
