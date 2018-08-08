@@ -1,7 +1,7 @@
 # Site Settings
 title: Lisa's Resume
-url: https://visalisa.github.io/online-cv/
-baseurl: /online-cv #change it according to your repository name
+url: https://visalisa.github.io/lisa-resume/
+baseurl: /lisa-resume #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -17,7 +17,7 @@ summary: 'Energetic software engineer with 10+ years experience managing product
 Increased code-efficiency of XYZ Corp customer portal by 55%.
 Boosted customer retention by 25%. Spearheaded a team that won the 2016 BOSSIE Award for cloud computing.
 An enthusiastic team player and deep creative thinker.'
-# You can <a href="https://visalisa.github.io/online-cv/" target="_blank"download>download my resume here</a>
+# You can <a href="https://visalisa.github.io/lisa-resume/" target="_blank"download>download my resume here</a>
   
   
 
