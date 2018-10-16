@@ -16,9 +16,9 @@
 
     </div><!--//meta-->
 
-    {% if experience.details %}
+     {% if experience.details %}
     <div class="details">
-      <p>&bull;{{ experience.details }}</p>
+      {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
