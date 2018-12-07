@@ -2,11 +2,10 @@
   role: Brand Manager & Coding Teacher
   time: 2017 - Present
   company: Creative Coding, Seattle
-  details: |
-    Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
-      - Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem.
+  pellentesque eu, pretium quis, sem"
 - experience:
   role: Revenue Operation Specialist
   time: 2017 - Present
