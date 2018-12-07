@@ -1,7 +1,7 @@
 # Site Settings
 title: Lisa's Resume
-url: https://visalisa.github.io/resume/
-baseurl: resume #change it according to your repository name
+url: https://visalisa.github.io/lisa-resume/
+baseurl: /lisa-resume #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
