@@ -1,16 +1,20 @@
 - skill:
-  name: Web and Software Development
+  name: Server-side Frameworks
   level: 95%
-  list: CSS, HTML, JavaScript, C#, JQuery, PHP, Dreamweaver, WordPress, and Unity
+  list: ASP.NET (MVC/Web API), Node.js, J2EE (Spring), LAMP
 - skill:
-  name: Virtual Reality (AR) Development
+  name: Front-end Frameworks
   level: 95%
-  list: A-Frame, Oculus Rift, Mircosoft Windows Mixed Reality, and HTC Vive
+  list: Angular, Bootstrap, Ionic
 - skill: 
-  name: Anatyics
+  name: Programming Languages
   level: 95%
-  list: Power BI, Tableau, and Oracle SQL
+  list: C#, VB.NET, Java, J#, JavaScript, TypeScript, Perl, PHP, Ruby, VBScript, JScript, Delphi, C/C++, Ada, Visual Basic, PowerShell, Clipper, Advance Revelation, ObjectPAL, PAL, COBOL, RPG, TAL, FORTRAN, Pascal, Assembler
 - skill:
-  name: Management
+  name: Databases
   level: 85%
-  list: Agile methodology, project management, operational management
+  list: PostgreSQL, MS SQL Server, Oracle, MySQL, SQLite, MS Access, Paradox
+- skill:
+  name: Tools
+  level: 85%
+  list: MS Visual Studio Code, MS Visual Studio 2017, NetBeans IDE, GitHub, Redmine, Subversion, CVS, Burp Suite Professional, ARIS Express, MS Visio, MS Project, MS SharePoint, Bugzilla, Mantis Bug Tracker, MS Visual SourceSafe, Rational Rose, Rational ClearQuest, Rational Requisite Pro, Symantec Visual Cafe, Opentext Livelink, Compuware QADirector, Compuware File/AID, Mecury LoadRunner, Platinum Erwin, Informatica Powermart, Oracle Designer2000, Oracle Discoverer, Oracle WorkFlow
