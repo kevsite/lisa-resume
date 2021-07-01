@@ -4,10 +4,8 @@ url: https://kevsite.github.io/resume/
 baseurl: /resume #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
-
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
-
 
 # Profile information
 name: Kevin Do
@@ -18,8 +16,6 @@ summary: |
       - Implemented numerous systems using PostgreSQL, Oracle, and Microsoft (MS) SQL Server within different development platforms/programming languages (ASP.NET, Java/J2EE, C#/C++, Visual Basic, JavaScript, Perl), as well as performing data migration of legacy software to new database schemas.
       - Extensive experience writing systems security documentation, analyzing market research studies, and conducting hardware/software product evaluation, along with duties such as providing system administration, information risk management, and technical specification for on-premise virtual/local/wide area networks (VAN/LAN/WAN) and cloud computing environments.
 # You can <a href="https://visalisa.github.io/lisa-resume/" target="_blank"download>download my resume here</a>
-  
-  
 
 # Sidebar links
 email: kdo@usa.net
