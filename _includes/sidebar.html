@@ -41,7 +41,11 @@
            {% if site.twitter %}
            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
            {% endif %}
- 
+          
+           {% if site.goodreads %}
+           <li class="goodreads-g"><i class="fa fa-goodreads-g"></i><a href="https://www.goodreads.com/user/show/{{site.goodreads}}" target="_blank">{{site.goodreads}}</a></li>
+           {% endif %}
+
        </ul>
    </div><!--//contact-container-->
   {% include language.html %}
