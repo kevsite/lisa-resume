@@ -12,7 +12,7 @@ theme_skin: ceramic # blue turquoise green berry orange ceramic
 # Profile information
 name: Kevin Do
 tagline: Full Stack IT Architect
-pic: profile_kevin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile_kev.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: |
       - Over 25 years of experience in the field of computer science and information technology (IT), participating on projects involving full software development lifecycle (SDLC), data communication/networking, and enterprise systems integration. Responsibilities include designing data models, defining technical architectures, and developing custom client/server and web-based applications.
       - Implemented numerous systems using PostgreSQL, Oracle, and Microsoft (MS) SQL Server within different development platforms/programming languages (ASP.NET, Java/J2EE, C#/C++, Visual Basic, JavaScript, Perl), as well as performing data migration of legacy software to new database schemas.
