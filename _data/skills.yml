@@ -1,7 +1,7 @@
 - skill:
   name: Server-side Frameworks
   level: 95%
-  list: ASP.NET (MVC/Web API), Node.js, J2EE (Spring), LAMP
+  list: ASP.NET Core, ASP.NET (MVC/Web API), Node.js, J2EE (Spring), LAMP
 - skill:
   name: Front-end Frameworks
   level: 95%
