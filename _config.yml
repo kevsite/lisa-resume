@@ -11,7 +11,7 @@ theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 # Profile information
 name: Kevin Do
-tagline: Full Stack IT Architect
+tagline: IT Architect / <br> Full Stack Developer
 pic: profile_kev.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: |
       - Over 25 years of experience in the field of computer science and information technology (IT), participating on projects involving full software development lifecycle (SDLC), data communication/networking, and enterprise systems integration. Responsibilities include designing data models, defining technical architectures, and developing custom client/server and web-based applications.
